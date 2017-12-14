@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestContetProvider</string>
+    <string name="read_more">Saiba Mais</string>
+</resources>
